@@ -1,1 +1,1 @@
-# mysql-project
+# my-projects
